@@ -6,4 +6,4 @@ This script is the input source for applications generated via LaTeX.
 
 # Explaination
 
-The python script consumes the unofficial API of the employment agency and feeds a MongoDB. 
+The python script consumes the unofficial API of the German employment agency and feeds a MongoDB. 
