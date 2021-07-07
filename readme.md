@@ -1,6 +1,7 @@
 # Background
 
-Family member lost job before COVID, labor market is tense so I help as much as I can.
+Family member lost job before COVID, labor market is tense so I help with this small script.
+This script is the input source for applications generated via LaTeX.
 
 
 # Explaination
