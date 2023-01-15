@@ -1,9 +1,7 @@
+The python script consumes the unofficial API of the German employment agency and feeds a MongoDB. 
+
+
 # Background
 
-Family member lost job before COVID, labor market is tense so I help with this small script.
-This script is the input source for applications generated via LaTeX.
-
-
-# Explaination
-
-The python script consumes the unofficial API of the German employment agency and feeds a MongoDB. 
+A family member lost his job before COVID but the labor market is tense.
+This script can collect all data required to compile job applications with LaTeX.
